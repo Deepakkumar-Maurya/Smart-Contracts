@@ -1,2 +1,2 @@
 # Smart-Contracts
-Smart Contract projects
+These are some of my smart contract projects.
